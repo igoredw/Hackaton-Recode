@@ -16,18 +16,19 @@ Acessando o site é bastante intuitivo o acesso para as demais páginas para que
 
 <h2>Ferramentas</h2>
 
-            <i class="devicon-vscode-plain colored"></i>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
 
-            <i class="devicon-notion-plain colored"></i>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" />
 
-            <i class="devicon-figma-plain"></i>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
 
-            <i class="devicon-canva-original"></i>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />
           
 
 <h2>Tecnologias utilizadas</h2>
 
-            <i class="devicon-css3-plain-wordmark"></i>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+    
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
           
-            <i class="devicon-html5-plain-wordmark"></i>
           
